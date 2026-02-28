@@ -75,7 +75,7 @@ A comprehensive **Bash shell script-based** medical center management system des
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/cuet-medical-center.git
+   git clone https://github.com/abdullanishat/CUET-MEDICAL-CENTER-MANAGEMENT-SYSTEM.git
    cd cuet-medical-center
    ```
 
