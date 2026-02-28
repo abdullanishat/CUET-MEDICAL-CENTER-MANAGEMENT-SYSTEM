@@ -256,10 +256,6 @@ Contributions are welcome! Please follow these steps:
 - Limited to single concurrent user (no multi-user support)
 - No data encryption (suitable for educational purposes only)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Inspired by real-world medical center management needs
