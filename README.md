@@ -11,7 +11,6 @@ A comprehensive **Bash shell script-based** medical center management system des
 - [Database Structure](#database-structure)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## ✨ Features
 
