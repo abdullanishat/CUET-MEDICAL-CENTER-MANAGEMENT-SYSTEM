@@ -2,7 +2,7 @@
 
 A comprehensive **Bash shell script-based** medical center management system designed for educational institutions. This system provides complete management of medical services including appointments, prescriptions, ambulance requests, and more.
 
-## 📋 Table of Contents
+## Table of Contents
 - [Features](#features)
 - [System Requirements](#system-requirements)
 - [Installation](#installation)
@@ -12,9 +12,9 @@ A comprehensive **Bash shell script-based** medical center management system des
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
 
-## ✨ Features
+## Features
 
-### 👨‍💼 Admin Features
+### Admin Features
 - **User Management**
   - Register and approve students, doctors, and admins
   - View and manage pending registrations
@@ -38,7 +38,7 @@ A comprehensive **Bash shell script-based** medical center management system des
   - View student feedback
   - Reply to feedback
 
-### 👨‍🎓 Student (Patient) Features
+### Student (Patient) Features
 - **Account Management**
   - Self-registration with OTP verification
   - Wait for admin approval
@@ -55,7 +55,7 @@ A comprehensive **Bash shell script-based** medical center management system des
   - Submit feedback
   - View feedback and admin replies
 
-### 👨‍⚕️ Doctor Features
+### Doctor Features
 - **Appointment Management**
   - View appointments with patients
   - Access patient information
@@ -64,13 +64,13 @@ A comprehensive **Bash shell script-based** medical center management system des
   - Give prescriptions to patients
   - Track prescription history
 
-## 🖥️ System Requirements
+## System Requirements
 
 - **Operating System**: macOS or Linux
 - **Shell**: Bash (version 4.0 or higher)
 - **Permissions**: Read/write access to project directory
 
-## 📥 Installation
+## Installation
 
 1. **Clone the repository**
    ```bash
@@ -88,7 +88,7 @@ A comprehensive **Bash shell script-based** medical center management system des
    ./main.sh
    ```
 
-## 🚀 Usage
+## Usage
 
 ### First Time Setup
 The system will automatically:
@@ -117,26 +117,26 @@ The system will automatically:
 3. Complete OTP verification
 4. Wait for admin approval
 
-## 👥 User Roles
+## User Roles
 
-### 🔐 Admin
+### Admin
 - Full system access
 - User approval authority
 - Resource management
 - Request processing
 
-### 👨‍🎓 Student/Patient
+### Student/Patient
 - Book appointments
 - Request services
 - View medical records
 - Provide feedback
 
-### 👨‍⚕️ Doctor
+### Doctor
 - View appointments
 - Prescribe medications
 - Manage patient care
 
-## 📊 Database Structure
+## Database Structure
 
 The system uses pipe-delimited text files for data storage:
 
@@ -162,42 +162,42 @@ The system uses pipe-delimited text files for data storage:
 - **Doctor Status**: `Available`, `Unavailable`
 - **Equipment/Medicine Status**: `Available`, `Unavailable`, `Out of Stock`
 
-## 🎯 Key Features Explained
+## Key Features Explained
 
-### 🔒 Security
+### Security
 - Password-protected accounts
 - Role-based access control
 - OTP verification during registration
 - Admin approval required for new accounts
 
-### 📅 Appointment System
+### Appointment System
 - View available doctors with specializations
 - Select doctor and date
 - Admin approval workflow
 - Duplicate prevention
 
-### 💊 Medicine Management
+### Medicine Management
 - Prescription tracking (Yes/No)
 - Admin approval required
 - Status tracking
 
-### 🚑 Ambulance Service
+### Ambulance Service
 - Emergency request system
 - Reason logging
 - Admin approval process
 
-### 💬 Feedback System
+### Feedback System
 - Student feedback submission
 - Admin reply capability
 - Two-way communication
 
-### 🔄 Data Validation
+### Data Validation
 - Empty field checks
 - Duplicate prevention
 - Numeric validation
 - Status restrictions
 
-## 📸 Screenshots
+## Screenshots
 
 ```
 ╔════════════════════════════════════════════════════════════╗
